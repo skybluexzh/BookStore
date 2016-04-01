@@ -1,0 +1,6 @@
+np/com/xiaohong/bookstore/controller/BookController.class
+np/com/xiaohong/bookstore/model/Book.class
+np/com/xiaohong/bookstore/service/impl/BookServiceImpl.class
+np/com/xiaohong/bookstore/dao/BookDao.class
+np/com/xiaohong/bookstore/dao/impl/BookDaoImpl.class
+np/com/xiaohong/bookstore/service/BookService.class
